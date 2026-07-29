@@ -45,7 +45,7 @@ I enjoy combining programming, design, and continuous learning to create project
 
 
 <p align="center">
-  <a href="https://canva.link/2sa7bhbqf22mszv">
+  <a href="https://canva.link/ffurtdbcuh613p0">
     <img src="assets/portafolio.png" width="750" alt="Portfolio"/>
   </a>
 </p>
