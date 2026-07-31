@@ -10,7 +10,7 @@ I'm a Full Stack Developer and Graphic Designer passionate about building functi
 
 I enjoy combining programming, design, and continuous learning to create projects that make a real impact.
 
-## 🚀 Tech Stack
+## ​💻​​ Tech Stack
 
 ### Languages
 
@@ -34,14 +34,14 @@ I enjoy combining programming, design, and continuous learning to create project
   <img src="assets/affinity.webp" width="48" height="47.5" alt="Affinity Designer"/>
 </p>
 
-### 🛠 Tools
+### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   <img src="assets/Apache_NetBeans_Logo.svg" width="48" height="47.5" />
 </p>
 
-## Links
+## ​🔗​ Links
 
 
 <p align="center">
